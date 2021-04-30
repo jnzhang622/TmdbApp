@@ -8,7 +8,7 @@ import retrofit2.Response
 class TmdbRepo {
 //    fun getPopularTmdb(): Single<TmdbResponseDTO> {
 //        return TmdbManager().getPopularTmdb(
-//            "89e01707b395bc1c2eab67cf546da127"
+//            ""
 //        )
 //    }
 
@@ -23,7 +23,7 @@ class TmdbRepo {
 
 //    fun getSearchTmdb(searchTerm: String): Single<TmdbResponseDTO> {
 //        return TmdbManager().getSearchTmdb(
-//            "89e01707b395bc1c2eab67cf546da127", searchTerm
+//            "", searchTerm
 //        )
 //    }
 }
